@@ -1,3 +1,4 @@
+## Set of functions written by Nicco Reggente for CourseRA on July 14, 2014
 ## this first function will allow us to associate a variable with a set of functions that pertain to calculating the inverse of a matrix. This way
 ## the variable will have info in regards to whether or not an inverse has been calculated by checking the cached variables.
 
